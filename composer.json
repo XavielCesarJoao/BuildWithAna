@@ -1,0 +1,20 @@
+{
+    "name": "xavielcesar/phpmvc-framework",
+    "autoload": {
+        "psr-4": {
+            "Xavielcesar\\PhpmvcFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "XavielCesarJoao",
+            "email": "xavielcesar.joao@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
